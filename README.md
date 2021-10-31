@@ -1,0 +1,1 @@
+# Como-usar-a-API-Pytrends-para-obter-dados-de-tendencias-do-Google
